@@ -1,7 +1,7 @@
 {
 	"id": "props-css-variables",
 	"name": "Note Properties as CSS Variables",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Add Markdown File Properties to the note as CSS variables for use in CSS",
 	"author": "ldrk11",
